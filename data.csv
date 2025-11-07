@@ -1,0 +1,60 @@
+#„ ‰ œ” Ê— (Text)Intent (ﬁ’œ)Entities („ÊÃÊœ? ùÂ«)
+»«“ ò—œ‰ »—‰«„Â (Open_Application)
+1Open Chrome right now.Open_ApplicationApp_Name: Chrome
+2Launch Microsoft Word please.Open_ApplicationApp_Name: Microsoft Word
+3Start the calculator application.Open_ApplicationApp_Name: calculator
+4Can you open my settings panel?Open_ApplicationApp_Name: settings panel
+5I need to use Photoshop, launch it.Open_ApplicationApp_Name: Photoshop
+6Please run the Python interpreter.Open_ApplicationApp_Name: Python interpreter
+7Launch the Task Manager.Open_ApplicationApp_Name: Task Manager
+8Open the Command Prompt window.Open_ApplicationApp_Name: Command Prompt
+9Start the Steam gaming app.Open_ApplicationApp_Name: Steam
+10I want to open the Downloads folder.Open_ApplicationApp_Name: Downloads folder
+»” ‰ »—‰«„Â (Close_Application)
+11Close the active window.Close_ApplicationApp_Name: active window
+12Shut down Spotify.Close_ApplicationApp_Name: Spotify
+13Exit the current program.Close_ApplicationApp_Name: current program
+14Terminate the Excel process.Close_ApplicationApp_Name: Excel
+15Close all open applications.Close_ApplicationApp_Name: all open applications
+Ã” ÃÊ? Ê» (Search_Web)
+16Google the weather forecast for tomorrow.Search_WebQuery: weather forecast for tomorrow, Engine: Google
+17Search on YouTube for the latest AI news.Search_WebQuery: latest AI news, Engine: YouTube
+18Find recipes for Italian pasta.Search_WebQuery: recipes for Italian pasta, Engine: default
+19What is the capital of Canada?Search_WebQuery: What is the capital of Canada?
+20Look up the stock price of Tesla.Search_WebQuery: stock price of Tesla
+«—”«· Å?«„ (ò·?) (Send_Communication)
+21Send a message to my boss about the meeting time.Send_CommunicationRecipient: boss, Medium: message, Content: about the meeting time
+22Email Sarah and tell her the project is done.Send_CommunicationRecipient: Sarah, Medium: Email, Content: the project is done
+23Draft an email to the support team.Send_CommunicationRecipient: support team, Medium: Email, Action: Draft
+24Reply to the last text I received.Send_CommunicationAction: Reply, Medium: text
+25Send a quick note to my colleague.Send_CommunicationRecipient: colleague, Medium: note
+Å?«„ Ê« ”«Å (Send_WhatsApp_Message)
+26Send a WhatsApp message to Ali saying I'm running late.Send_WhatsApp_MessageRecipient: Ali, Content: I'm running late
+27Write a WhatsApp to my wife about dinner plans.Send_WhatsApp_MessageRecipient: my wife, Content: about dinner plans
+28WhatsApp the group about the change of venue.Send_WhatsApp_MessageRecipient: the group, Content: about the change of venue
+29Tell Mom via WhatsApp to call me back.Send_WhatsApp_MessageRecipient: Mom, Content: to call me back
+30Send the attached file to David on WhatsApp.Send_WhatsApp_MessageRecipient: David, Action: Send File
+Å?«„  ·ê—«„ (Send_Telegram_Message)
+31Telegram John to check the new link.Send_Telegram_MessageRecipient: John, Content: to check the new link
+32Send a Telegram to the developer channel about the bug fix.Send_Telegram_MessageRecipient: developer channel, Content: about the bug fix
+33"Write to Aida on Telegram: ""See you at 5."""Send_Telegram_MessageRecipient: Aida, Content: See you at 5
+34Ask Peter on Telegram about the project status.Send_Telegram_MessageRecipient: Peter, Content: about the project status
+35Telegram my friend the photo I just took.Send_Telegram_MessageRecipient: my friend, Action: Send Photo
+ò‰ —· ”?” „? (System_Control)
+36Shut down the computer.System_ControlAction: Shut down
+37Restart my PC in 5 minutes.System_ControlAction: Restart, Time: 5 minutes
+38Lock my screen.System_ControlAction: Lock screen
+39Put the computer to sleep.System_ControlAction: Sleep
+40Please log off the current user.System_ControlAction: Log off
+⁄„·?«  ›«?· (File_Operation)
+41Create a new folder named 'Project Alpha' on the desktop.File_OperationOperation: Create Folder, Name: Project Alpha, Location: desktop
+42Delete the temporary files.File_OperationOperation: Delete, File_Path: temporary files
+43Copy the presentation to the flash drive.File_OperationOperation: Copy, File_Name: presentation, Destination: flash drive
+44Rename 'old_doc.txt' to 'new_doc.txt'.File_OperationOperation: Rename, Old_Name: old_doc.txt, New_Name: new_doc.txt
+45Move all images from Downloads to Pictures.File_OperationOperation: Move, File_Type: images, Source: Downloads, Destination: Pictures
+ç  „ ‰? / ”ƒ«· Ê ÃÊ«» (Q_A_Chat)
+46What is the date today?Q_A_ChatQuery: the date today
+47Tell me a joke.Q_A_ChatAction: Tell a joke
+48Who are you?Q_A_ChatQuery: Who are you?
+49How do I solve a linear regression problem?Q_A_ChatQuery: How to solve a linear regression problem?
+50What is the weather like?Q_A_ChatQuery: the weather like

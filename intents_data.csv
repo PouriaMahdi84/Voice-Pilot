@@ -1,0 +1,81 @@
+text,label
+Please open Google Chrome.,Open_Application
+I need to launch Microsoft Word.,Open_Application
+Can you bring up the calculator app?,Open_Application
+Launch Photoshop for me now.,Open_Application
+Execute the Python program.,Open_Application
+I need to open Word.,Open_Application
+Can you launch Microsoft PowerPoint?,Open_Application
+I want a notepad instance.,Open_Application
+Open the PDF reader application.,Open_Application
+Run the Photoshop program.,Open_Application
+Please open the file manager.,Open_Application
+How can I open the Python application?,Open_Application
+I want to open Spotify now.,Open_Application
+Bring up the calculator.,Open_Application
+Start Windows Media Player.,Open_Application
+Run Word for me.,Open_Application
+Search the weather forecast for tomorrow on Google.,Search_Web
+Search the capital of Iran on Wikipedia.,Search_Web
+Find a video about Python tutorials on YouTube.,Search_Web
+What is the current dollar price?,Search_Web
+Please Google the best restaurants in Tehran.,Search_Web
+Find me the nearest cafe.,Search_Web
+Search for the latest news on Artificial Intelligence.,Search_Web
+YouTube search for Mihan.,Search_Web
+What is the current time in Tokyo?,Search_Web
+Open the website for Sharif University of Technology.,Search_Web
+Show me something about quantum computing.,Search_Web
+How can I get a visa for Canada?,Search_Web
+Search for the latest football scores.,Search_Web
+Google 'Ghormeh Sabzi recipe'.,Search_Web
+What new movies have been released?,Search_Web
+Can you search for the best laptops on the internet?,Search_Web
+Find me a good article about the history of space travel.,Search_Web
+Show me videos of cats on YouTube.,Search_Web
+Look up the meaning of 'ubiquitous'.,Search_Web
+Please lock the screen right now.,System_Control
+Shut down my computer.,System_Control
+I need to restart the Windows immediately.,System_Control
+"System is slow, can you perform a quick reboot?",System_Control
+Turn off the system.,System_Control
+Go to sleep mode.,System_Control
+Log off the current user.,System_Control
+Turn the PC off.,System_Control
+I'm leaving. Power the machine down.,System_Control
+Restart Windows.,System_Control
+Suspend the laptop immediately.,System_Control
+Lock this computer.,System_Control
+Prepare for shutdown.,System_Control
+Stop working and turn the power off.,System_Control
+Put the system on standby.,System_Control
+Close Google Chrome.,Close_Application
+Shut down the active window.,Close_Application
+"I'm done with Word, please close it.",Close_Application
+Terminate the Python app.,Close_Application
+Close the calculator application.,Close_Application
+Close all running applications.,Close_Application
+Stop the current program.,Close_Application
+Please close Photoshop.,Close_Application
+Exit the game.,Close_Application
+Get out of this Word document.,Close_Application
+Can you close the browser tab?,Close_Application
+Close the Excel sheet.,Close_Application
+Close all programs.,Close_Application
+I want to close everything except Chrome.,Close_Application
+Close the notepad application.,Close_Application
+Send a WhatsApp message to Ali.,Send_Communication
+Tell my wife I'm home late on Telegram.,Send_Communication
+WhatsApp message to my boss: 'I'll send the report tomorrow.',Send_Communication
+Send a message to Sara on WhatsApp.,Send_Communication
+I want to call John via Telegram.,Send_Communication
+Telegram to Mom: 'Happy Birthday.',Send_Communication
+Start a video call with Mary on WhatsApp.,Send_Communication
+Send a quick message to my contact list.,Send_Communication
+Send a greeting message to my friend on Telegram.,Send_Communication
+Call the last contact on my Telegram.,Send_Communication
+What's the best way to message my friend?,Send_Communication
+Send a WhatsApp to my office team.,Send_Communication
+WhatsApp message for the number 0912...,Send_Communication
+Open WhatsApp and type a message to the group.,Send_Communication
+Tell Sarah I'm running late.,Send_Communication
